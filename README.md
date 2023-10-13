@@ -1,4 +1,4 @@
-# View My Assignement By CLicking on this link
+View My Assignment By Clicking on this link: https://98ravisharma.github.io/appCrafters_web/
 
 
-# Developed Using Htmls, CSS, JS -  Library use tailwindcss and for aos js library for on scroll animation
+Developed Using HTML, CSS, JS -  Library use tailwind css and for aos js library for on scroll animation
